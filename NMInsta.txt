@@ -1,10 +1,12 @@
-{"version_code":113249569,"content":"
+{"version_code":113249570,"content":"
 <p>NMInstagram v1.50 By Nairo Mix</p>
 
 <li>Nuevos Iconos Glass</li>
 <li>Traducido al Español</li>
 <li>Otros Cambios</li>
-<li>NMInsta Plus</li>
+<li>NMInstagram</li>
+<li>Guarda Imágenes Audio etc</li> 
+<li>Comparte Ulr Rápidamente</li>
 
 ","url":"https://mundoappmix.blogspot.com/?m=1"
 }
