@@ -1,12 +1,15 @@
 {"version_code":0,"xxxxxx":"
-<p>NMInstagram v1.50 By Nairo Mix</p>
-
-<li>Nuevos Iconos Glass</li>
+<p>NMInstagram v1.56</p>
+ 
+<p>Hecho Por : N@iRo Mix</p> 
+ 
+<li>Fixed para aplicar tema de la sdcard</li>
 <li>Traducido al Español</li>
-<li>Otros Cambios</li>
-<li>NMInstagram</li>
+<li>Fixed Al Descargar temas</li>
+<li>File NMInstagram</li>
 <li>Guarda Imágenes Audio etc</li> 
 <li>Comparte Ulr Rápidamente</li>
-
+<li>Otros Fixed</li> 
+ 
 ","url":"https://mundoappmix.blogspot.com/?m=1"
 }
