@@ -1,15 +1,15 @@
-{"version_code":0,"xxxxx":"
-<p>InstaUltraMix v0.9.2.10</p>
+{"version_code":0,"147375143":"
+<p>InstaUltra v0.9.4.20</p>
  
-<p>Hecho Por : N@iRo Mix</p> 
+<p>edited by: Nairo Mix</p> 
  
-<li>Fixed para aplicar tema de la sdcard</li>
+<li>Opción añadida para iniciar el audio directamente con el video</li>
 <li>Traducido al Español</li>
-<li>Fixed Al Descargar temas</li>
-<li>File NMInstagram</li>
-<li>Guarda Imágenes Audio etc</li> 
-<li>Comparte Ulr Rápidamente</li>
+<li>Privacidad agregada - Ocultar estado de vista</li>
+<li>Soporte de idiomas italianos (gracias a tony)</li>
+<li>Opciones de descarga de video / imágenes fijas (cuentas privadas)</li> 
+<li>Solucionado el fallo de InstaUltra (90%)</li>
 <li>Otros Fixed</li> 
  
-","url":"https://www.nairomix.com/?m=1"
+","url":"https://www.nairomix.com/2019/02/InstaUltraMix.html?m=1"
 }
